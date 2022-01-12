@@ -1,0 +1,35 @@
+body{
+  background-color: #A7C7E7
+}
+.App{
+  text-align: center;
+  margin-top : 50px;
+  
+  
+}
+
+.App input{
+  width: 500px;
+  text-align: center;
+  padding:10px;
+  border : 2px solid #4b4a4a;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.weather-data .name{
+  margin-top: 50px;
+  
+  font-size: 25px;
+}
+
+.weather-data .temp{
+  margin-top: 50px;
+  
+  font-size: 60px;
+}
+
+.weather-data .weather1{
+  margin-top: 50px;
+  
+  font-size: 25px;
+}
